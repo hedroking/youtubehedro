@@ -184,10 +184,9 @@ def show_status(action="",channel_id="",live_count=""):
 >>> 	    |_|   |_|   |____/|_| |_|\___/|_|             <<<
 >>> 	                                                  <<<
 >>> ===================================================== <<<
->>> [DEV] : hedroking                      <<<
->>> [GitHub] : https://github.com/hedroking          <<<
->>> [Version] : 1
-.2v                                      <<<
+>>> [DEV] : hedroking                                     <<<
+>>> [GitHub] : https://github.com/hedroking               <<<
+>>> [Version] : 1.0v                                      <<<
 >>> +++++++++++++++++++++++++++++++++++++++++++++++++++++ <<<
 """
 	if action == "START":
