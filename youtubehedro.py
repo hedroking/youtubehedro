@@ -184,9 +184,9 @@ def show_status(action="",channel_id="",live_count=""):
 >>> 	    |_|   |_|   |____/|_| |_|\___/|_|             <<<
 >>> 	                                                  <<<
 >>> ===================================================== <<<
->>> [DEV] : hedroking                                     <<<
->>> [GitHub] : https://github.com/hedroking               <<<
->>> [Version] : 1.0v                                      <<<
+>>> [DEV] : facebook   (Ahmed Okasha)                     <<<
+>>> [facebook] : https://www.facebook.com/EAAAAUaZA8jlABA <<<
+>>> [Version] : 11.8v                                     <<<
 >>> +++++++++++++++++++++++++++++++++++++++++++++++++++++ <<<
 """
 	if action == "START":
