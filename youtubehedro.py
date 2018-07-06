@@ -184,8 +184,8 @@ def show_status(action="",channel_id="",live_count=""):
 >>> 	    |_|   |_|   |____/|_| |_|\___/|_|             <<<
 >>> 	                                                  <<<
 >>> ===================================================== <<<
->>> [DEV] : facebook   (Ahmed Okasha)                     <<<
->>> [facebook] : https://www.facebook.com/EAAAAUaZA8jlABA <<<
+>>> [DEV] : facebook   (hedroking)                        <<<
+>>> [facebook] : https://www.facebook.com/hedroking       <<<
 >>> [Version] : 11.8v                                     <<<
 >>> +++++++++++++++++++++++++++++++++++++++++++++++++++++ <<<
 """
